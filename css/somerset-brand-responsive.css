@@ -1,0 +1,19 @@
+@media (max-width: 768px) {
+
+    body {
+        min-width: 400px;
+    }
+
+    footer {
+        position: relative;
+    }
+    
+    footer .base-footer .base-footer__footer-links {
+        display: inline;
+    }
+
+    .site-footer__ogl {
+        padding-left: 1rem;
+        padding-bottom: 1rem;
+    }
+}
